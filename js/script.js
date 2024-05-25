@@ -56,9 +56,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const updateProfileImage = () => {
         if (html.classList.contains('dark')) {
-            profileImg.src = '/img/bayu4darkmode-profile.png';
+            profileImg.src = 'img/bayu4darkmode-profile.png';
         } else {
-            profileImg.src = '/img/bayu4-profile.png';
+            profileImg.src = 'img/bayu4-profile.png';
         }
     };
 
