@@ -1462,10 +1462,6 @@ body {
     margin-top: 12rem;
   }
 
-  .xl\:ml-0 {
-    margin-left: 0px;
-  }
-
   .xl\:w-10\/12 {
     width: 83.333333%;
   }
@@ -1474,13 +1470,8 @@ body {
     width: 50%;
   }
 
-  .xl\:max-w-3xl {
-    max-width: 48rem;
-  }
-
-  .xl\:px-0 {
-    padding-left: 0px;
-    padding-right: 0px;
+  .xl\:max-w-2xl {
+    max-width: 42rem;
   }
 
   .xl\:pb-16 {
